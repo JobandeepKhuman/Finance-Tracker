@@ -1,0 +1,73 @@
+#flashMessage{
+  background-color: Cornsilk;
+  color: black;
+  display:flex;
+  justify-content: center;
+}
+
+
+#billAdder{
+  height: 60%;
+  width: 15%;
+  outline: 5px solid #505050;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+
+.subheading{
+  height: 12.5%;
+  width: 100%;
+  outline: 5px solid #505050;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  display:flex;
+  justify-content: center;
+}
+
+
+.billForms{
+  position: absolute;
+  top: 20%;
+  left: 5%;
+}
+
+#billNames{
+  height: 60%;
+  width: 15%;
+  outline: 5px solid #505050;
+  position: absolute;
+  top: 20%;
+  left: 30%;
+}
+
+#billDetails{
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+
+#billDisplay{
+  height: 60%;
+  width: 15%;
+  outline: 5px solid #505050;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+}
+
+#allBillNames{
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+
+#billPayments{
+  height: 60%;
+  width: 15%;
+  outline: 5px solid #505050;
+  position: absolute;
+  top: 20%;
+  left: 70%;
+}
