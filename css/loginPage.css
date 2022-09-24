@@ -1,0 +1,29 @@
+#loginPageBackgroundContainer{
+  height:400px;
+  width:700px;
+  position:absolute;
+  top: 13%;
+  left: 25%;
+  background-image: url("/static/signInPageBackground.png")
+}
+
+#loginForm{
+  position:absolute;
+  top: 25%;
+  left: 30%
+}
+
+#signInMessage{
+  position:absolute;
+  top: 10%;
+  left: 10%;
+}
+
+#loginButton{
+  background: Snow;
+  color: Black;
+  width: 100px;
+  position:absolute;
+  top: 110%;
+  left: 110%;
+}
