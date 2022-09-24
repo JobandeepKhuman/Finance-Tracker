@@ -1,8 +1,0 @@
-#registrationPageBackgroundContainer{
-  height:400px;
-  width:600px;
-  position:absolute;
-  top: 13%;
-  left: 27.5%;
-  background-image: url("/static/registrationPageCoins.jpg")
-}
